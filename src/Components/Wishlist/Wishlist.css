@@ -1,0 +1,12 @@
+
+.topNavigation{
+    width: 487px;
+}
+@media (max-width: 767px) {
+    .topNavigation{
+        width: 100%;
+    }
+  }
+
+
+
